@@ -1,3 +1,7 @@
+Full-stack website created using PHP, MyPHPadmin, HTML 5, and CSS 3. 
+
+Project description can be read below.
+
 Project Description
 You will create a full stack web application for a fictional organization or a company that sells products
 (e.g. toys, electronics, cloths, cars, etc.) or provides services (e.g. fitness club, automobile maintenance,
